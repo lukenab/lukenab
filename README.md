@@ -1,8 +1,4 @@
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&text=Hi%2C%20I'm%20Luke Nab&desc=Product-minded%20Software%20Engineer%20%7C%20Aspiring%20Technical%20PM&fontAlign=50&fontSize=54&descSize=18&descAlignY=55&fontAlignY=40&fontColor=FFF4E6"
-  alt="Profile banner"
-/>
+![Profile banner](https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&text=Hi%2C%20I%27m%20Luke%20Nab&desc=Product-minded%20Software%20Engineer%20%7C%20Aspiring%20Technical%20PM&fontAlign=50&fontSize=54&descSize=18&descAlignY=55&fontAlignY=40&fontColor=FFF4E6&animation=fadeIn)
 
 <p align="center">
   <img
