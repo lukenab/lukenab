@@ -1,4 +1,17 @@
-![Profile banner](https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&text=Hi%2C%20I%27m%20Luke%20Nab&desc=Product-minded%20Software%20Engineer%20%7C%20Aspiring%20Technical%20PM&fontAlign=50&fontSize=54&descSize=18&descAlignY=55&fontAlignY=40&fontColor=FFF4E6&animation=fadeIn)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=blur&amp;height=280&amp;color=0%3A43CEA2%2C100%3A185A9D&amp;text=Hi%2C%20I%27m%20Luke%20Nab&amp;desc=Product-minded%20Software%20Engineer%20%7C%20Aspiring%20Technical%20PM&amp;fontAlign=50&amp;fontSize=54&amp;descSize=18&amp;descAlignY=55&amp;fontAlignY=40&amp;fontColor=FFF4E6&amp;animation=fadeIn"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=blur&amp;height=280&amp;color=0%3A43CEA2%2C100%3A185A9D&amp;text=Hi%2C%20I%27m%20Luke%20Nab&amp;desc=Product-minded%20Software%20Engineer%20%7C%20Aspiring%20Technical%20PM&amp;fontAlign=50&amp;fontSize=54&amp;descSize=18&amp;descAlignY=55&amp;fontAlignY=40&amp;fontColor=16324F&amp;animation=fadeIn"
+  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=blur&amp;height=280&amp;color=0%3A43CEA2%2C100%3A185A9D&amp;text=Hi%2C%20I%27m%20Luke%20Nab&amp;desc=Product-minded%20Software%20Engineer%20%7C%20Aspiring%20Technical%20PM&amp;fontAlign=50&amp;fontSize=54&amp;descSize=18&amp;descAlignY=55&amp;fontAlignY=40&amp;fontColor=16324F&amp;animation=fadeIn"
+    alt="Luke Nab profile banner"
+  />
+</picture>
 
 <p align="center">
   <img
